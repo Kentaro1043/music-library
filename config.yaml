@@ -10,6 +10,7 @@ presets:
         youtube:
           lang:
             - "ja"
+      cookiefile: "/cookies.txt"
 
     overrides:
       # プレイリストタイトルのうちアルバム名を抽出する
