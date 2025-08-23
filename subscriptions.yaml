@@ -3,7 +3,7 @@ __preset__:
     music_directory: "/music"
 
 Music:
-  = YouTube Music:
+  = hololive:
     "天音かなた":
       - "https://music.youtube.com/playlist?list=OLAK5uy_l9m0adpfCQKGMNL_WeJboTKAG--8Yq-fE" # きゅーぴっど。
       - "https://music.youtube.com/playlist?list=OLAK5uy_lqWdb0ORl46pfLxAokEfo8kkJ7onKM7iI" # Knock it out!
@@ -27,11 +27,12 @@ Music:
       - "https://music.youtube.com/playlist?list=OLAK5uy_nO1SES8pD_J6iPW2if4xptNv_Kqaff3IU" # 絶対忠誠♡なのなのら！
 
     "hololive IDOL PROJECT":
-      - "https://music.youtube.com/playlist?list=OLAK5uy_mkBdYnTicpMRbC46u5g25XArdgGHMzPLk" # Shiny Smily Story
+      - "https://music.youtube.com/playlist?list=OLAK5uy_kwb95n9dAQ9ARhRvq5H0Do_UWZY-_UP_Y" # Shiny Smily Story
       - "https://music.youtube.com/playlist?list=OLAK5uy_mkBdYnTicpMRbC46u5g25XArdgGHMzPLk" # Suspect
-      - "https://music.youtube.com/playlist?list=OLAK5uy_mkBdYnTicpMRbC46u5g25XArdgGHMzPLk" # STARDUST SONG
-      - "https://music.youtube.com/playlist?list=OLAK5uy_mkBdYnTicpMRbC46u5g25XArdgGHMzPLk" # 至上主義アドトラック
-      - "https://music.youtube.com/playlist?list=OLAK5uy_mkBdYnTicpMRbC46u5g25XArdgGHMzPLk" # 今宵はHalloween Night!
+      - "https://music.youtube.com/playlist?list=OLAK5uy_kgQ72iP2CpYjSPuFnY0A7uYqCXUMH6Ugk" # 至上主義アドトラック
+      - "https://music.youtube.com/playlist?list=OLAK5uy_mAjRp7Gk5Izh3Z6lWrGZ3cLLYALkyvNsM" # Candy-Go-Round
+      - "https://music.youtube.com/playlist?list=OLAK5uy_kzKSHLkNlk8MgDHt057qWYFt-JOrDiTtA" # 今宵はHalloween Night!
+      - "https://music.youtube.com/playlist?list=OLAK5uy_kP4rvTm5hnWHl9GtNBNNw9nvC_XrbJmXM" # STARDUST SONG
 
     "hololive Indonesia":
-      - "https://music.youtube.com/playlist?list=OLAK5uy_mkBdYnTicpMRbC46u5g25XArdgGHMzPLk" # id:entity voices
+      - "https://music.youtube.com/playlist?list=OLAK5uy_kx9b4ANasRi358BEx1Y5_bTQ656ZnGwkY" # id:entity voices
