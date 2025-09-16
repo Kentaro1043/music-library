@@ -53,6 +53,7 @@ Music:
       - "https://music.youtube.com/playlist?list=OLAK5uy_napmWn2Jc-y11uiS_g-A6rH8SkfYxb8yU" # Bouquet（Midnight ver.）
       - "https://music.youtube.com/playlist?list=OLAK5uy_lR8G23zE-MN9CzFr5gzo5H3lsIwUAoq88" # Capture the Moment
       - "https://music.youtube.com/playlist?list=OLAK5uy_mVSZ8Dwxltn0Gy5YXXw31DjuxQqoADUpk" # Our Bright Parade
+      - "https://music.youtube.com/playlist?list=OLAK5uy_na0okzLhckAgdH5F1TVfyAI-c7RwyIB1w" # ホロライブ言えるかな？hololive SUPER EXPO 2024 ver.
 
     "Blue Journey":
       - "https://music.youtube.com/playlist?list=OLAK5uy_mjHnqVYFYqI420I16wLPyGBPSznivh9zM" # 夜明けのうた
@@ -105,3 +106,7 @@ Music:
   = "サウンドトラック":
     "SIEサウンドチーム":
       - "https://music.youtube.com/playlist?list=OLAK5uy_mCH-Thq7-9lEJRoHuSUZQ_17D0yV02f4E" # 「ポポロクロイス物語」オリジナル・サウンドトラック
+
+  = "VOCALOID":
+    "hiroki.":
+      - "https://music.youtube.com/playlist?list=OLAK5uy_k10y6nQ7_k_A2vRWb9FPl3AfRSlvr4I_4" # どっちにするの？
